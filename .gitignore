@@ -6,3 +6,4 @@ build/
 .venv/
 *.log
 node_modules/
+*.tmp
